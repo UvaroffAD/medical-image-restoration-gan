@@ -1,0 +1,8 @@
+﻿Uvarov_AkBars_MedRestore release
+Built: 2026-06-28 20:45:43
+
+Main start file: start_windows.bat
+Manual start: python web_app.py --host 127.0.0.1 --port 8765
+Open: http://127.0.0.1:8765/
+
+Included folders: uvarov_restoration, assets, models, runs/microscopy_demo, runs/ct_demo, analysis_outputs
